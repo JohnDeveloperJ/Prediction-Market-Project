@@ -1,6 +1,6 @@
 # Prediction Market Project
 
-![Prediction Market Logo](![theworldeater_Prediction_markets_Logo_3d_HD_Ruby_reflecting_da_d2549f73-85b0-47a2-9d3e-37edc1e5e85a](https://github.com/JohnDeveloperJ/Prediction-Market-Project/assets/143453887/90032a9c-2f42-4f30-98e3-d85146d9c946)
+![Uploading theworldeater_Prediction_markets_Logo_3d_HD_Ruby_reflecting_da_d2549f73-85b0-47a2-9d3e-37edc1e5e85a.png…]()
 )
 
 ## Overview
