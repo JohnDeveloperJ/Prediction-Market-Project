@@ -1,6 +1,7 @@
 # Prediction Market Project
 
-![Prediction Market Logo](https://cdn.midjourney.com/18907ae5-3458-40b1-9592-151835f619e3/0_1.png)
+![Prediction Market Logo](![theworldeater_Prediction_markets_Logo_3d_HD_Ruby_reflecting_da_d2549f73-85b0-47a2-9d3e-37edc1e5e85a](https://github.com/JohnDeveloperJ/Prediction-Market-Project/assets/143453887/90032a9c-2f42-4f30-98e3-d85146d9c946)
+)
 
 ## Overview
 The Prediction Market Project introduces a groundbreaking decentralized application (DApp) designed for users to engage in and establish prediction markets. Leveraging the power of blockchain technology, this DApp provides a transparent, secure, and unbiased environment for an array of predictive events. Whether it's predicting outcomes in sports, financial markets, or any other future events, our platform is tailored to support a diverse spectrum of prediction markets.
