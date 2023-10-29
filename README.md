@@ -1,6 +1,6 @@
 # Prediction Market Project
 
-![Uploading theworldeater_Prediction_markets_Logo_3d_HD_Ruby_reflecting_da_d2549f73-85b0-47a2-9d3e-37edc1e5e85a.png…]()
+![Uploading theworldeater_Prediction_markets_Logo_3d_HD_Ruby_reflecting_da_d2549f73-85b0-47a2-9d3e-37edc1e5e85a.png…]
 )
 
 ## Overview
