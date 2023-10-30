@@ -1,7 +1,7 @@
 # Prediction Market Project
 
-![Uploading theworldeater_Prediction_markets_Logo_3d_HD_Ruby_reflecting_da_d2549f73-85b0-47a2-9d3e-37edc1e5e85a.png…]
-)
+![theworldeater_Prediction_markets_Logo_3d_HD_Ruby_reflecting_da_4cbbb459-bba0-4c52-b5aa-29c3fd5f2c93](https://github.com/JohnDeveloperJ/Prediction-Market-Project/assets/143453887/774dabc9-d740-499b-9703-aa0b90be18e0)
+
 
 ## Overview
 The Prediction Market Project introduces a groundbreaking decentralized application (DApp) designed for users to engage in and establish prediction markets. Leveraging the power of blockchain technology, this DApp provides a transparent, secure, and unbiased environment for an array of predictive events. Whether it's predicting outcomes in sports, financial markets, or any other future events, our platform is tailored to support a diverse spectrum of prediction markets.
